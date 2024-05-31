@@ -11,10 +11,10 @@
 - Utilized Python to create a web socket server so that the client side can send images for the neural network to process, and returns a response indicating which direction (if any) to scroll
 
 ### Recipe Generation Page:
-![alt text](https://raw.githubusercontent.com/kevxemail/fervent/main/recipeUI.png)
+![alt text](https://raw.githubusercontent.com/kevinxiong613/munchka/main/recipeUI.png)
 
 ### Hand Gesture Detection:
-![alt text](https://raw.githubusercontent.com/kevxemail/fervent/main/handDetect.png)
+![alt text](https://raw.githubusercontent.com/kevinxiong613/munchka/main/handDetect.png)
 
 ```text
 Languages: Python, JavaScript
