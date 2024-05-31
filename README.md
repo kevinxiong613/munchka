@@ -10,6 +10,11 @@
 - Implemented a REST API with Express.js for user authentication and interaction with the Google Gemini API
 - Utilized Python to create a web socket server so that the client side can send images for the neural network to process, and returns a response indicating which direction (if any) to scroll
 
+### Recipe Generation Page:
+![alt text](https://raw.githubusercontent.com/kevxemail/fervent/main/)
+
+### Hand Gesture Detection:
+
 ```text
 Languages: Python, JavaScript
 Technologies: Node.js, Express.js, React.js, Next.js, TensorFlow
