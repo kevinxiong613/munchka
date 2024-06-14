@@ -18,4 +18,4 @@
 
 ```text
 Languages: Python, JavaScript
-Technologies: Node.js, Express.js, React.js, Next.js, TensorFlow
+Technologies: Node.js, Express.js, React.js, Next.js, TensorFlow, PostgreSQL
